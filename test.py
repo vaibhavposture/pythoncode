@@ -2,7 +2,7 @@ def add(x,y):
     z =x+y
     return z
 def mult(x,y):
-    z =x+y
+    z =x*y
     return z
 sum = add(10,7)
 mult = mult(2,8)
